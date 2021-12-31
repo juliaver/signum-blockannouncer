@@ -1,4 +1,4 @@
-# signum-blockaccouncer
+# signum-blockaccounter
 Simple block win announcer for Discord
 
 
